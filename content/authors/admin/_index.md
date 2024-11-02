@@ -89,28 +89,88 @@ education:
       - _Unified cognitive activation model_
       - Supervisor: Prof. Ryo Otoguro
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoctoral research assistant
+    company_name: University of Tübingen, Germany
+    company_url: 'https://uni-tuebingen.de/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-06-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Investigate the isomorphy (covarying structure) between semantics and word-forms (sound/tongue positions).
+      - Working with Prof. R. Harald Baayen.
+  - position: Lecturer
+    company_name: University of Tübingen, Germany
+    company_url: 'https://uni-tuebingen.de/'
+    company_logo: ''
+    date_start: 2024-02-01
+    date_end: 2024-09-30
+    summary: |
+      - Teaching several courses and seminars. (\*More in the Teaching section.)
+  - position: Doctoral research assistant \& Lecturer
+    company_name: University of Tübingen, Germany
+    company_url: 'https://uni-tuebingen.de/'
+    company_logo: ''
+    date_start: 2019-02-01
+    date_end: 2024-01-31
+    summary: |
+      - Experiment using ultrasound to record tongue movements for German words.
+      - Corpus analysis with a computational model to investigate morphological and semantic effects on phonetics.
+      - Worked with Prof. R. Harald Baayen and Dr. Fabian Tomaschek.
+  - position: Visiting doctoral research assistant
+    company_name: University of Tübingen, Germany
+    company_url: 'https://uni-tuebingen.de/'
+    company_logo: ''
+    date_start: 2018-08-01
+    date_end: 2019-01-31
+    summary: |
+      - Worked with Prof. R. Harald Baayen.
+      - Data processing and statistical analysis on language performance data.
+      - Work on mathematical implementation of language processing.
+  - position: Visiting doctoral research assistant
+    company_name: University of Tübingen, Germany
+    company_url: 'https://uni-tuebingen.de/'
+    company_logo: ''
+    date_start: 2018-05-01
+    date_end: 2018-07-31
+    summary: |
+      - Worked with Prof. R. Harald Baayen.
+      - Data processing and statistical analysis on English lexical decision data.
+  - position: Honorary research associate
+    company_name: University of Liverpool, the UK
+    company_url: 'https://www.liverpool.ac.uk/'
+    company_logo: ''
+    date_start: 2018-01-01
+    date_end: 2018-03-31
+    summary: |
+      - Worked with Prof. Ben Ambridge.
+      - Data processing of Japanese child-directed speech corpora.
+      - Experiment design and implementation with Processing.
+  - position: Visiting doctoral research assistant
+    company_name: University of Tübingen, Germany
+    company_url: 'https://uni-tuebingen.de/'
+    company_logo: ''
+    date_start: 2017-06-01
+    date_end: 2017-11-30
+    summary: |
+      - Worked with Prof. R. Harald Baayen.
+      - Data processing and statistical analysis on English eye-tracking data.
+  - position: Visiting postgraduate researcher
+    company_name: University of Sheffield, the UK
+    company_url: 'https://www.sheffield.ac.uk/'
+    company_logo: ''
+    date_start: 2016-11-01
+    date_end: 2017-01-31
+    summary: |
+      - Worked with Dr. Dagmar Divjak.
+      - Data collection for an experiment of an acceptability judgment rating task.
+  - position: Teaching assistant
+    company_name: Kyoto University, Japan
+    company_url: 'https://www.kyoto-u.ac.jp/en'
+    company_logo: ''
+    date_start: 2016-04-01
+    date_end: 2016-07-31
+    summary: |
+      - Teaching a course of Japanse as a second language for exchange students and visiting scholars.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
