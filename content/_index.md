@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-10-22
 type: landing
 
 design:
@@ -35,11 +35,35 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My reseach focus can be summarized as _effects of higher-level
+        information on phonetic realizations_. Higher-level information such as
+        morphology, syntax, and especially semantics can systematically influence how
+        words and segments are phonetically realized.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        In my PhD project, I found that frequency effects on articulatory
+        realizations (i.e., tongue positions) were modulated by morphological structure
+        of words, and that such modulation effects of morphology could be explained
+        better in terms of semantics.
+
+        Developing this line of research, I am working on two research projects:
+          1. Predicting word forms only from their meanings in German and Chinese.
+          2. Modulation of morphological effects on phonetic realizations by
+             phonetic identity of segments.
+
+        Word forms, either coded in terms of their phonemic makeups or
+        represented by their tongue movements, can be distinguished and predicted by
+        their own semantic vectors, namely word-embeddings created by word2vec,
+        fastText, contextualized embeddings using large language models, and etc.
+        (Research project 1. above).
+
+        Segments can be different in their realizations, according to
+        higher-level information such as semantics and morphology. For example, affixes
+        (e.g., _**un**do_) have been found to be longer than their corresponding
+        non-affixal counterpart (e.g., _**un**cle_). Such effects, however, can affect
+        different types of segments differently. Vowels are easier to lengthen and
+        easily contribute to make speech more audible than stop consonants, for
+        example. This research topic corresponds to the second research project above
+        (2.).
     design:
       columns: '1'
   - block: collection
