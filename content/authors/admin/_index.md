@@ -227,12 +227,16 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Japanese
     percent: 100
+  - name: English
+    percent: 90
+  - name: German
+    percent: 60
+  - name: Dutch
+    percent: 20
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
