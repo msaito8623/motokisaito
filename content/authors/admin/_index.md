@@ -20,36 +20,43 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher in Linguistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Eberhard Karls Universität Tübingen - University of Tübingen
+    url: https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/quantitative-linguistik/mitarbeiter/motoki-saito/
+
+# A short bio, displayed at the end of each blog-style post.
+# bio: hoge hoge
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:motoki.saito@uni-tuebingen.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/msaito8623
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=ojWCiuoAAAAJ&hl=de&oi=sra
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-0785-5813
+#   - icon: brands/linkedin
+#     url: https://www.linkedin.com/
+#   - icon: brands/x
+#     url: https://twitter.com/GetResearchDev
+#   - icon: brands/instagram
+#     url: https://www.instagram.com/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Linguistics
+  - Psycholinguistics
+  - Phonetics
+  - Corpus linguistics
+  - Computational linguistics
+  - Python
+  - R
 
 education:
   - area: PhD Artificial Intelligence
