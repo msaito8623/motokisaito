@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV.pdf
     design:
       css_class: dark
       background:
@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research' # 📚
       subtitle: ''
       text: |-
         My reseach focus can be summarized as _effects of higher-level
