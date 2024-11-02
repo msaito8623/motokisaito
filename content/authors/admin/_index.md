@@ -289,6 +289,11 @@ awards:
       - Title: _The effect of constructional subschemas on acceptability/grammaticality judgment_
 ---
 
+<!---
 ## About Me
+-->
 
 I currently work as a postdoctoral researcher in the Quantitative Linguistics group led by Prof. R. Harald Baayen at the department of Linguistics at University of Tübingen (Seminar für Sprachwissenschaft, Eberhard Karls Universität Tübingen).
+
+<br>
+
