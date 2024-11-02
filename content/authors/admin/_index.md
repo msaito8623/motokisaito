@@ -179,16 +179,24 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: 90
+        icon: devicon/python
+      - name: R
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 90
+        icon: devicon/r
+      - name: Julia
         description: ''
+        percent: 10
+        icon: devicon/julia
+      - name: AAA
+        description: 'Articulate Assistant Advanced, a software for analyzing articulatory data (e.g., ultrasound).'
         percent: 40
-        icon: circle-stack
+        icon: computer-desktop
+      - name: Processing
+        description: 'A software for an psychological/psycholinguistic experiment.'
+        percent: 30
+        icon: devicon/processing
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
