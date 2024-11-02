@@ -59,37 +59,35 @@ interests:
   - R
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Linguistics
+    institution: University of Tübingen, Germany
+    date_start: 2019-02-01
+    date_end: 2024-01-25
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      - _Enhancement effects of frequency: An explanation from the perspective of Discriminative Learning_
+      - First supervisor: Prof. R. Harald Baayen
+      - second supervisor: Dr. Fabian Tomaschek
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://publikationen.uni-tuebingen.de/xmlui/handle/10900/149848'
+  - area: Partial fulfillment in PhD Human and Environmental Studies (Language Science)
+    institution: Kyoto University, Japan
+    date_start: 2015-04-01
+    date_end: 2018-03-31
+  - area: MA Human and Environmental Studies (Language Science)
+    institution: Kyoto University, Japan
+    date_start: 2013-04-01
+    date_end: 2015-03-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - _A cognitive linguisitc factor affecting acceptability judgment: An investigation from a perspective of Cognitive Grammar_ (\*Written in Japanese)
+      - Supervisor: Prof. Kazumi Taniguchi
+  - area: BA Law with a minor in Linguistics
+    institution: Waseda University, Japan
+    date_start: 2009-04-01
+    date_end: 2013-03-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - _Unified cognitive activation model_
+      - Supervisor: Prof. Ryo Otoguro
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
