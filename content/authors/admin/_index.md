@@ -201,17 +201,29 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Cycling
         description: ''
-        percent: 60
+        percent: 90
+        icon: map
+      - name: Jogging
+        description: ''
+        percent: 70
         icon: person-simple-walk
-      - name: Cats
+      - name: Table tennis
         description: ''
-        percent: 100
-        icon: cat
+        percent: 40
+        icon: rectangle-group
+      - name: Guitar
+        description: ''
+        percent: 50
+        icon: musical-note
+      - name: Language learning
+        description: ''
+        percent: 70
+        icon: language
       - name: Photography
         description: ''
-        percent: 80
+        percent: 10
         icon: camera
 
 languages:
