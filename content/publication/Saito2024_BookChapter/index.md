@@ -38,7 +38,7 @@ tags:
 - Corpus
 - Experiment
 
-featured: false
+featured: true 
 
 links:
 - name: "DOI"
