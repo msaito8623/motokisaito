@@ -37,7 +37,7 @@ featured: true
 links:
 - name: PsyArxiv
   url: https://osf.io/preprints/psyarxiv/y8h4b
-url_pdf: '/uploads/Saito2024_JapaneseHomophones_preprint_v1.pdf'
+url_pdf: '/uploads/Saito2025_JapaneseHomophones_preprint_v1.pdf'
 # url_code: 'https://github.com/'
 # url_dataset: '#'
 # url_poster: '#'
