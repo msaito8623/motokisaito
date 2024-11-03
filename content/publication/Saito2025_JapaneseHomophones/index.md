@@ -1,9 +1,13 @@
 ---
 title: "How meaning and predictability affect the duration of Japanese homophonous words"
+
 authors:
 - admin
+- Ruben van de Vijver
+
 date: "2024-11-03T00:00:00+0100"
-doi: ""
+
+# doi: "https://doi.org/10.31234/osf.io/y8h4b"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-03T00:00:00+0100"
@@ -42,12 +46,12 @@ url_pdf: '/uploads/Saito2024_JapaneseHomophones_preprint_v1.pdf'
 # url_source: '#'
 # url_video: '#'
 
-# # Featured image
-# # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-#   focal_point: ""
-#   preview_only: false
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
 
 # # Associated Projects (optional).
 # #   Associate this publication with one or more of your projects.
