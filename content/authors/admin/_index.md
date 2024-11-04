@@ -89,7 +89,7 @@ education:
       - _Unified cognitive activation model_
       - Supervisor: Prof. Ryo Otoguro
 work:
-  - position: Postdoctoral research assistant
+  - position: Postdoctoral researcher
     company_name: University of Tübingen, Germany
     company_url: 'https://uni-tuebingen.de/'
     company_logo: ''
@@ -106,7 +106,7 @@ work:
     date_end: 2024-09-30
     summary: |
       - Teaching several courses and seminars. (\*More in the Teaching section.)
-  - position: Doctoral research assistant \& Lecturer
+  - position: Doctoral research assistant & Lecturer
     company_name: University of Tübingen, Germany
     company_url: 'https://uni-tuebingen.de/'
     company_logo: ''
