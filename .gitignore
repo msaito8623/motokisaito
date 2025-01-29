@@ -12,3 +12,5 @@ go.sum
 # Others
 templates/
 *.forme
+
+*.swp
