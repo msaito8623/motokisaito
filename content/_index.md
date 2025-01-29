@@ -93,7 +93,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - upcoming_talks
     design:
       view: article-grid
       columns: 1
