@@ -12,9 +12,12 @@ address:
   # city: Mainz 
   country: Germany
 
+# Displayed as a short summary in the overview page:
 summary: To be presented at the workshop "Morphological variation" at the 47th Annual Conference of the German Linguistic Society (DGfS 47).
 
-# abstract: 
+# Will be displayed on the individual page:
+# Turning off this option will also remove "Event" and "Location".
+abstract: Different semantics, different phonetic realizations. Confirmed also for Japanese.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -46,7 +49,7 @@ image:
 # url_pdf: ''
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
-url_slides: 'uploads/resume.pdf'
+# url_slides: 'uploads/resume.pdf'
 
 # # Markdown Slides (optional).
 # #   Associate this talk with Markdown slides.
