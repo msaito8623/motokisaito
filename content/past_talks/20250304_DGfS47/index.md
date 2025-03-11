@@ -21,7 +21,7 @@ abstract: Different semantics, different phonetic realizations. Confirmed also f
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-03-04T14:00:00+0100' # "+0100" is the German standard (winter) time.
+date: '2025-03-07T14:00:00+0100' # "+0100" is the German standard (winter) time.
 # date_end: '2030-06-01T15:00:00+0100'
 all_day: true 
 
@@ -49,7 +49,7 @@ image:
 # url_pdf: ''
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
-# url_slides: 'uploads/resume.pdf'
+url_slides: 'uploads/20250307_DGfS_Slides_withoutAppendix.pdf'
 
 # # Markdown Slides (optional).
 # #   Associate this talk with Markdown slides.
