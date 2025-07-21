@@ -55,6 +55,8 @@ interests:
   - Phonetics
   - Corpus linguistics
   - Computational linguistics
+  - Hearing loss
+  - Second language learning
   - Python
   - R
 
@@ -306,7 +308,11 @@ awards:
 ## About Me
 -->
 
-I currently work as a postdoctoral researcher in the Quantitative Linguistics group led by Prof. R. Harald Baayen at the department of Linguistics at University of Tübingen (Seminar für Sprachwissenschaft, Eberhard Karls Universität Tübingen).
+I currently work as a postdoctoral researcher at University of Oldenburg (Carl von Ossietzky Universität Oldenburg) with Prof. Dr. Esther Ruigendijk. My primary research projects are:
+
+1. Reduced (unclear) speech in second language learning
+
+2. Perception of acoustically degraded signals by people of hearing loss and normal hearing
 
 <br>
 
