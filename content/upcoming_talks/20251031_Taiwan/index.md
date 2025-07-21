@@ -1,8 +1,8 @@
 ---
-title: How meaning affects the duration of Japanese homophonous words
+title: "Semantics determines choices of writing styles in Japanese: A computational approach"
 
 event: International Academic Conference on Digital Humanities and AI Art
-event_url: https://agenda.uib.es/120122/detail/6th-phonetics-and-phonology-in-europe-pape-2025.html
+event_url: https://www.nsysu.edu.tw/
 
 location: National Sun Yat-sen University
 address:
