@@ -24,8 +24,8 @@ role: Postdoctoral Researcher in Linguistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Eberhard Karls Universität Tübingen - University of Tübingen
-    url: https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/quantitative-linguistik/mitarbeiter/motoki-saito/
+  - name: Carl von Ossietzky Universität Oldenburg - University of Oldenburg 
+    url: https://uol.de/niederlandistik/mitarbeiter/saito
 
 # A short bio, displayed at the end of each blog-style post.
 # bio: hoge hoge
@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:motoki.saito@uni-tuebingen.de'
+    url: 'mailto:motoki.saito@uni-oldenburg.de'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/msaito8623
@@ -90,11 +90,20 @@ education:
       - Supervisor: Prof. Ryo Otoguro
 work:
   - position: Postdoctoral researcher
+    company_name: University of Oldenburg, Germany
+    company_url: 'https://uol.de/'
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: ''
+    summary: |
+      - Effects of acoustically degraded signals in the contexts of hearing loss and second language learning.
+      - Working with Prof. R. Esther Ruigendijk.
+  - position: Postdoctoral researcher
     company_name: University of Tübingen, Germany
     company_url: 'https://uni-tuebingen.de/'
     company_logo: ''
     date_start: 2024-06-01
-    date_end: ''
+    date_end: 2025-04-30
     summary: |
       - Investigate the isomorphy (covarying structure) between semantics and word-forms (sound/tongue positions).
       - Working with Prof. R. Harald Baayen.
@@ -189,6 +198,10 @@ skills:
         description: ''
         percent: 10
         icon: devicon/julia
+      - name: E-Prime
+        description: 'A software to create a psychological/linguistic experiment.'
+        percent: 40
+        icon: computer-desktop
       - name: AAA
         description: 'Articulate Assistant Advanced, a software for analyzing articulatory data (e.g., ultrasound).'
         percent: 40
@@ -232,9 +245,9 @@ languages:
   - name: English
     percent: 90
   - name: German
-    percent: 60
+    percent: 70
   - name: Dutch
-    percent: 20
+    percent: 30
   - name: Chinese
     percent: 20
 
