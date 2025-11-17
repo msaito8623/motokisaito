@@ -47,7 +47,7 @@ image:
 # #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
 # url_pdf: ''
-# url_slides: 'https://slideshare.net'
+url_slides: 'uploads/20251031_Taiwan_slides.pdf'
 # url_video: 'https://youtube.com'
 # url_slides: 'uploads/20250307_DGfS_Slides_withoutAppendix.pdf'
 
