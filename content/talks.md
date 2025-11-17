@@ -18,7 +18,7 @@ sections:
           - upcoming_talks
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     content:
       title: Past talks
